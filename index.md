@@ -7,6 +7,6 @@ rendering research project. This project is a joint effort among Los Alamos
 National Laboratory, The University of Texas at Austin and The University of New
 Hampshire.
 
-![logo]({{"/assets/lanl-logo-footer.png" | absolute_url}}) <!-- .element
+![a logo]({{"/assets/lanl-logo-footer.png" | absolute_url}}) <!-- .element
 height="50pixels"-->
 
