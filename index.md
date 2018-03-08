@@ -9,6 +9,6 @@ Hampshire.
 
 
 ![logo](/assets/lanl-logo-footer.png){:width="100px"}
-![logo](/assets/ut_logo.jpg){:width="100px" .center-image}
+![logo](/assets/ut_logo.png){:width="100px" .center-image}
 ![logo](/assets/unh_logo.png){:width="100px"}
 
