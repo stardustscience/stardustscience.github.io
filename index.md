@@ -7,7 +7,7 @@ This is the home page for the Stardust Science project, an asynchronous renderin
 Stardust software can be downloaded from the [Stardust Science
 github](http://www.github.com/stardustscience)
 
-Stardust publications are listed [here](stardust_publications.html).
+Stardust publications are listed [here](pages/publications.html).
 
 ![logo](/assets/lanl-logo-footer.png){:width="200px"}
 ![logo](/assets/ut_logo.png){:width="200px" .center-image}
