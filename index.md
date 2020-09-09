@@ -12,7 +12,7 @@ The Stardust project has resulted in a range of publications, open source softwa
 
 - **Andromeda** prototype, a platform to explore a streaming approach to rendering and sampling massive data. Andromeda can be downloaded from the [Stardust Science github](http://www.github.com/stardustscience)
 
-- **SciVisColor.org**, a website that organizes work about approaches to coloring scientific datasets.
+- [**SciVisColor.org**](http://www.sciviscolor.org), a website that organizes work about approaches to coloring scientific datasets.
 
 - Stardust publications are listed [here](publications.html).
 
