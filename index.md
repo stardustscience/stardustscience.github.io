@@ -18,9 +18,9 @@ The Stardust project has resulted in a range of publications, open source softwa
 
 - The [**Final Report**](/assets/2020_Final_Report.pdf), describing the overall accomplishments for the project, with emphasis on final deliverables.
 
-- **Galaxy** engine, a platform to explore asynchronous rendering and sampling algorithms. Galaxy can be accessed at the [Stardust Science github](http://www.github.com/stardustscience).
+- The **Galaxy** engine, a platform to explore asynchronous rendering and sampling algorithms. Galaxy can be accessed at the [Stardust Science github](http://www.github.com/stardustscience).
 
-- **Andromeda** prototype, a platform to explore a streaming approach to rendering and sampling massive data. Andromeda will be made available at the [Stardust Science github](http://www.github.com/stardustscience).
+- The **Andromeda** engine prototype, a platform to explore a streaming approach to rendering and sampling massive data. Andromeda will be made available at the [Stardust Science github](http://www.github.com/stardustscience).
 
 - [**SciVisColor.org**](http://www.sciviscolor.org), a website that organizes work about approaches to coloring scientific datasets.
 
