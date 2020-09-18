@@ -8,8 +8,8 @@ This is the home page for the Stardust Science project, an asynchronous renderin
 
 - James Ahrens (PI), Los Alamos National Laboratory
 - David H. Rogers, Los Alamos National Laboratory
-- Colin Ware (Co-PI), University of New Hampshire 
-- Francesca Samsel (Co-PI), University of Texas at Austin (TACC) 
+- Colin Ware, University of New Hampshire 
+- Francesca Samsel, University of Texas at Austin (TACC) 
 - Greg Abram, University of Texas at Austin (TACC) 
 - Paul Navratil, University of Texas at Austin (TACC) 
 - Stephanie Zellar, University of Texas at Austin (TACC) 
