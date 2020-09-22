@@ -24,6 +24,8 @@ The Stardust project has resulted in a range of publications, open source softwa
 
 - [**SciVisColor.org**](http://www.sciviscolor.org), a website that organizes work about approaches to coloring scientific datasets.
 
+- Prototype **Smart Particle** code is available at the [Stardust Science github](http://www.github.com/stardustscience).
+
 - Stardust project publications are listed [here](publications).
 
 ![logo](/assets/lanl-logo-footer.png){:width="200px"}
